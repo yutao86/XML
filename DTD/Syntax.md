@@ -1,6 +1,6 @@
-# Syntax
+# DTD语法
 
-> DTD Syntax
+> Document Type Definition Syntax
 
 ## Overview
 
